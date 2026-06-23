@@ -2,6 +2,7 @@
 Application that tracks chore completion for a household
 
 Contributor: Richard Tang
+Last updated: 6/22/2026
 
 No implementation has started yet! This project is still currently in the inception phase.
 In the meantime, feel free to browse the documentation found here:
